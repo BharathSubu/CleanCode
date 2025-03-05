@@ -12,7 +12,7 @@ convert the function to positive case IsDOMNodePresent
  
 review 4:
 return type is missing
-add default case
+add default case8
 Use double quotes (") for string literals
  
 review 5:
@@ -22,7 +22,7 @@ review 6:
 separate the function
  
 review 7:
- 
+Is singleTon necessary , try using it only if needed
  
 review 8:
 combine related parameters to one object and pass
